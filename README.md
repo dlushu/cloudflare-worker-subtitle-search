@@ -9,6 +9,7 @@
 - 📱 **响应式界面** - 自适应桌面端和移动端
 - 🚀 **无服务器** - 部署在 Cloudflare Worker，无需维护后端
 
+
 ## 🚀 一键部署
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dlushu/cloudflare-subtitle-search)
@@ -69,4 +70,3 @@ subtitle-search-worker/
 ## 📄 License
 
 MIT
-```
