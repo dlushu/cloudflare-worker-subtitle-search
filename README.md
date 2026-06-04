@@ -9,14 +9,9 @@
 - 📱 **响应式界面** - 自适应桌面端和移动端
 - 🚀 **无服务器** - 部署在 Cloudflare Worker，无需维护后端
 
-## 🚀 部署
+## 🚀 一键部署
 
-### 一键部署
-
-1. 复制 `_worker.js` 的全部代码
-2. 登录 [Cloudflare Workers](https://dash.cloudflare.com/)
-3. 创建新的 Worker
-4. 粘贴代码，保存并部署
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dlushu/cloudflare-subtitle-search)
 
 ### 自定义域名
 
